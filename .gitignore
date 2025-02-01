@@ -1,0 +1,11 @@
+.DS_Store
+
+__pycache__/
+*.py[cdo]
+
+*.retry
+
+*.sw[a-p]
+.*.sw[a-p]
+
+*~
